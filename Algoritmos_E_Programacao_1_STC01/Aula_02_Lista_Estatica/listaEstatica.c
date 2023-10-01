@@ -6,8 +6,8 @@
 #define MAX 10
 
 struct lista {
-    int qtd;
-    int dados[MAX];
+    int qtd; // Quantidade de elementos armazenados na lista
+    int dados[MAX]; // Max == Numero máximo de elementos na lista
 };
 
 
